@@ -1,0 +1,14 @@
+.signIn__link {
+	text-decoration: none;
+	color: #216791;
+}
+
+.already__account {
+	font-size: 14px !important;
+	font-weight: 500 !important;
+	color: #656a6e !important;
+}
+
+.signIn__link:hover {
+	color: red;
+}
